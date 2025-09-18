@@ -1,0 +1,6 @@
+git config --global user.name "Elizabethgitacu" 
+ git config --global user.email "elizabeth.gitacu@strathmore.edu"
+ git add .
+ git commit -m "Second commit"
+ git remote add origin https://github.com/Elizabethgitacu/taskapp-project-api.git
+ git push -u origin main
